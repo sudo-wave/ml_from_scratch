@@ -1,5 +1,7 @@
-# ml_from_scratch
-Machine learning algorithm implementations from first principles.
+# ML From Scratch 
+
+**Machine learning algorithm implementations from first principles, leveraging a custom
+vector/matrix backend.**
 
 ## References
 

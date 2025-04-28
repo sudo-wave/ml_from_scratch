@@ -1,10 +1,12 @@
-# ml_from_scratch
-
+```markdown
 ### Linear Algebra
 
-- [ ] Make vector library
+- [ ] Make vector library 
 - [ ] Make matrix library
+- [ ] Add l1, l2, and inf norm for vectors
 
-### ML Algorithms
+### Classification
 
 - [ ] Perceptron algorithm
+
+```
