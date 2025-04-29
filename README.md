@@ -1,9 +1,17 @@
-# ML From Scratch 
+# ML From Scratch
 
-**Machine learning algorithm implementations from first principles, leveraging a custom
-vector/matrix backend.**
+Implementation of Machine Learning algorithms from first principles, leveraging a
+custom vector/matrix backend.
 
-## References
+Learning tasks covered:
+
+1. Classification
+2. Regression
+3. Density estimation
+4. Dimensionality
+5. Clustering
+
+### References
 
 [UC Berkeley CS189 - Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 
